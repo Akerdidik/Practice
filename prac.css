@@ -1,0 +1,16 @@
+li,ul{
+  font-family: monospace;
+}
+.back{
+  background-color: inherit;
+}
+.yellow{
+  font-family: monospace,sans-serif;
+  color:yellow;
+  font-size: 20px;
+}
+.black{
+  font-family:Arial;
+  color:black;
+  font-size: 50px;
+}
